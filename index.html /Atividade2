@@ -13,9 +13,7 @@
     <a href="./Atividade_2/Atividade2.html">Link Atividade 2</a>
 
     <footer style="margin-top: 40px;">
-        <hr>
-        <!-- Substitua o nome do arquivo pela imagem que você tiver -->
-        <img src="if.png" alt="Logo do IFPR" width="150"><br>
+        <img src="if.png" alt="Logo do IFPR" width="150">
         <p>Desenvolvido por [Seu Nome Aqui]</p>
     </footer>
 </body>
